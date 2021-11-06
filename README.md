@@ -8,3 +8,5 @@ Pass in:
  * The start time 
  * The end time
 That's it.
+Example:
+`updateTextOnCall(someElement, "15% Off store wide!", "Regular Sale Text" "2021-11-05T00:00:00", "2021-11-05T23:59:59");`

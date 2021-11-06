@@ -11,6 +11,8 @@
 #### Example:
 `updateTextOnCall(someElement, "15% Off store wide!", "Regular Sale Text" "2021-11-05T00:00:00", "2021-11-05T23:59:59");`
 
+## No need to clone or download, just copy the function below:
+
 ```
 function updateTextOnCall(
   el,
